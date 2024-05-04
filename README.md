@@ -20,4 +20,3 @@ In this project did a little bit focus and deep dive into algorithms and big O i
 *   **0.Bubble sort**
     * [0-bubble_sort.c](./0-bubble_sort.c): A function that sorts an aray of integers in ascending order using the `Bubble sort` algorithm
     * [0-O](./0-O): Well indicated the big O notations of the time complexity of the Bubble sort algorithm
-    * <iframe width="560" height="315" src="https://www.youtube.com/embed/lyZQPjUT5B4" title="Bubble-sort with Hungarian (&quot;Csángó&quot;) folk dance" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
